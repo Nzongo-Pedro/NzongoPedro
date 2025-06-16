@@ -38,7 +38,7 @@ Educar. Inspirar. Automatizar. Afrontear o impossível.
 
 ## 📫 Contato
 
-- GitHub: [@Nzongo-Pedro](https://github.com/Nzongo-Pedro)
+- GitHub: [@Nzongo-Pedro](https://github.com/NzongoPedro)
 - E-mail: **nzongopedro3@gmail.com**
 - Localização: **Luanda, Angola**
 
