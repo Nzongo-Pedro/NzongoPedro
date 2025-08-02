@@ -46,3 +46,6 @@ Educar. Inspirar. Automatizar. Afrontear o impossível.
 
 > “Se o código não muda o mundo, ao menos muda quem o escreve.”
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzongo-Pedro&layout=compact&theme=radical)
+
+
